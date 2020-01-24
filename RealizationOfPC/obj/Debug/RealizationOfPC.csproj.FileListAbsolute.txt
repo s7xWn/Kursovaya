@@ -1,6 +1,0 @@
-C:\Users\s7xWn\source\repos\RealizationOfPC\RealizationOfPC\obj\Debug\RealizationOfPC.csprojAssemblyReference.cache
-C:\Users\s7xWn\source\repos\RealizationOfPC\RealizationOfPC\bin\Debug\RealizationOfPC.exe.config
-C:\Users\s7xWn\source\repos\RealizationOfPC\RealizationOfPC\bin\Debug\RealizationOfPC.exe
-C:\Users\s7xWn\source\repos\RealizationOfPC\RealizationOfPC\bin\Debug\RealizationOfPC.pdb
-C:\Users\s7xWn\source\repos\RealizationOfPC\RealizationOfPC\obj\Debug\RealizationOfPC.exe
-C:\Users\s7xWn\source\repos\RealizationOfPC\RealizationOfPC\obj\Debug\RealizationOfPC.pdb
